@@ -592,6 +592,12 @@ input[type="submit"] {
   padding-left: 50px;
   padding-right: 50px; }
 
+.contact-form form {
+  width: 290px; }
+
+.subscribe {
+  border-right: dashed 1px #000; }
+
 /*.top-fill
  * height: 100%
  * background: linear-gradient(90deg, #EBEBEB 50%, #222222 50%)
@@ -618,7 +624,8 @@ input[type="submit"] {
 
   .subscribe {
     overflow: hidden;
-    width: 100%; } }
+    width: 100%;
+    border-right: none; } }
 @media (max-width: 767px) {
   .summary p {
     padding-bottom: 40px; }

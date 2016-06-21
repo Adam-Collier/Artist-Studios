@@ -1434,7 +1434,7 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/css\/4-pages\/homepage.sass",
-		"outputAbbreviatedPath": "\/assets\/css\/css\/homepage.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/homepage.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1453,7 +1453,7 @@
 		},
 	"\/assets\/css\/css\/homepage.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/css\/css\/homepage.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -1521,7 +1521,7 @@
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
